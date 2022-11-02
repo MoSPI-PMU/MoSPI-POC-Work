@@ -1,0 +1,3 @@
+State,Year,Gender,Locality,PS,HSS
+Delhi,2019,Male,Urban,10,20
+HR,2020,Female,Rural,20,30
